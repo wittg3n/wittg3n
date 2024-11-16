@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻 I'm working on<br>Deep Learning models, and in my spare time, I work on little things like Telegram bots or websites.<br><br>🤝 I'm looking to collaborate on<br>Almost any project I can because I want to learn more and more.<br><br>🌱 I'm currently learning<br>French and GNN.<br><br>💬 Ask me about<br>Nothing, only I ask here :))))<br><br>⚡ Fun fact about me<br>I'm not a gamer, but I want to be a CS2 pro.
+🧑‍💻 I'm working on<br>Deep Learning models, and in my spare time, I work on little things like Telegram bots or websites.<br><br>🤝 I'm looking to collaborate on<br>Almost any project I can because I want to learn more and more.<br><br>🌱 I'm currently learning<br>French and GNN.<br><br>💬 Ask me about<br>Nothing, I am the one asking the questions here :))))<br><br>⚡ Fun fact about me<br>I'm not a gamer, but I want to be a CS2 pro.
 
 
 ## 🌐 Socials:
